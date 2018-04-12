@@ -1,0 +1,20 @@
+/*
+Name:Doeun Kim
+SBU ID: 110887955
+*/
+#welcome{
+    width: 100%;
+    height: 800px;
+}
+
+.granny-image{
+    width:30%;
+    height: 800px;
+    float: left;
+}
+
+.about-granny{
+    width: 70%;
+    height: 800px;
+    float: right;
+}

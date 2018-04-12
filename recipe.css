@@ -1,0 +1,59 @@
+/*
+Name:Doeun Kim
+SBU ID: 110887955
+*/
+h1{
+    color: #a4a400;
+    background-color: #f0f0f0;
+    font-family: verdana;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-weight: normal;
+    text-align: left;
+}
+
+#pie{
+    text-align: center;
+    font-weight: bold;
+    font-size: 22pt;
+}
+body{
+    background-color: white;
+    background-image: url("http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/1/silverware.jpg");
+    background-repeat: repeat;
+    font-size: 11pt;
+    font-family: Georgia;
+    color: #404040;
+}
+
+.comment{
+    font-style: italic;
+    background-color: #ffffc8;
+    width:90%;
+    margin-left: 5%;        
+}
+
+a{
+    color: #a4a400;
+}
+.major-step{
+    font-weight: bold;
+}
+.validator{
+    border: 2px solid #a4a400;
+}
+
+p.step{
+    padding-top: 0px; 
+    margin-top: 0px; 
+    padding-bottom: 0px; 
+    margin-bottom: 0px;
+}
+#step-last{
+    padding-top: 0px; 
+    margin-top: 0px;
+}
+#step1{
+    padding-bottom: 0px; 
+    margin-bottom: 0px;
+}
